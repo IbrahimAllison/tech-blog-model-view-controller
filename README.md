@@ -26,7 +26,10 @@ Visual Studio Code
 NodeJS
 MySQL
 
+
 ## License
+
+![License](https://img.shields.io/badge/License-MIT-9cf.svg)
 
 MIT license was used for creating this repository.
 

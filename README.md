@@ -43,12 +43,19 @@ Here is an high level steps for creating and executing the tech blog application
 Below is an additional instruction for the Heroku Deployment:
 
 •	In your Heroku dashboard for your app, go to the "Settings" tab.
+
 •	Scroll down to the "Config Vars" section.
+
 •	Click the "Reveal Config Vars" button.
+
 •	Add the following variables and their corresponding values:
+
 •	DB_NAME (with your MySQL database name)
+
 •	DB_USER (with your MySQL database username)
+
 •	DB_PASSWORD (with your MySQL database password)
+
 •	Additionally, Heroku will automatically set the JAWSDB_URL environment variable when you add the JawsDB add-on to your app. You don't need to set it manually; Heroku takes care of it.
 
  

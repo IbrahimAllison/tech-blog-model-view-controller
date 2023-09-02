@@ -13,7 +13,7 @@ I was motivated to build a full stack Website from the scratch and deployed it t
 
 Here is an high level steps for creating and executing the tech blog application.
 
-# Steps
+## Steps
 
 1. Create the necessary folders and their associated files.
 2. Run npm init-y

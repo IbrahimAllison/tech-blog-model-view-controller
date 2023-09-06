@@ -110,6 +110,16 @@ https://radiant-anchorage-07713-21a13a734cb9.herokuapp.com
 
 ![image](https://github.com/IbrahimAllison/tech-blog-model-view-controller/assets/116689797/f901af50-94ef-4cf9-aee1-a6a66185f98f)
 
+![image](https://github.com/IbrahimAllison/tech-blog-model-view-controller/assets/116689797/40c4452b-4fe6-4315-ad91-a8e9e844b835)
+
+![image](https://github.com/IbrahimAllison/tech-blog-model-view-controller/assets/116689797/d715a4c2-15fd-4983-b952-b2f138482376)
+
+![image](https://github.com/IbrahimAllison/tech-blog-model-view-controller/assets/116689797/c6064781-bec3-4a48-aa35-40c96ee98eb0)
+
+
+
+
+
 
 
 

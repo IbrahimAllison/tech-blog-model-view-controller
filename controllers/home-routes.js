@@ -90,7 +90,7 @@ router.get("/newBlogPost", (req, res) => {
 });
 
 // Codes to render the edit blog post page
-router.get("/editpost/:id", async (req, res) => {
+router.get("/edit-post/:id", async (req, res) => {
   try {
     const blogPostData = await BlogPost.findByPk(req.params.id, {
       include: [

@@ -7,9 +7,9 @@ const post_id = window.location.toString().split("/")[
   const updateTechPostFormHandler = async (event) => {
     event.preventDefault();
   
-    const title = document.querySelector("#title-update-tech-post").value.trim();
+    const title = document.querySelector("#title-update-tech-blog-post").value.trim();
     const content = document
-      .querySelector("#content-update-tech-post")
+      .querySelector("#content-update-tech-blog-post")
       .value.trim();
   
     if (title && content) {

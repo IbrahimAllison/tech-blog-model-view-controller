@@ -1,8 +1,8 @@
 const techLoginFormHandler = async (event) => {
     event.preventDefault();
     // Code snippets to get the values of the username and password input fields
-    const username = document.querySelector('#username-tech-login').value.trim();
-    const password = document.querySelector('#password-tech-login').value.trim();
+    const username = document.querySelector('#username-tech-blog-login').value.trim();
+    const password = document.querySelector('#password-tech-blog-login').value.trim();
     // If the input fields have values
     if (username && password) {
     // This codes send a POST request to the login endpoint with the input values as JSON data
